@@ -1,0 +1,3 @@
+Planner,Success Rate,Cleanup Steps,Evaluation Trials,Difficulty,Priority Cleaning,K-Nearest Filter,Time Searching Graph for Path,Path Planning Attempts,Path Planning Failures,Localization Failures,Time to Choose Action,Action Attempts,Time to Clean Graph,Time to Evaluate Success Rate
+SoRB,0.0,inf,20,0.95,False,inf,0.0006117179982538801,20,20,20,396.5979041909991,20,inf,397.09718339100027
+SoRB,0.0,0.0,20,0.95,False,5.0,0.0006157730008453655,20,20,20,411.68504224299886,20,inf,412.0556790840001

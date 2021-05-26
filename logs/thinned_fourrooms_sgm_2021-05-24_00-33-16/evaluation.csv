@@ -1,0 +1,2 @@
+Planner,Success Rate,Cleanup Steps,Evaluation Trials,Difficulty,Priority Cleaning,K-Nearest Filter,Time Searching Graph for Path,Path Planning Attempts,Path Planning Failures,Localization Failures,Time to Choose Action,Action Attempts,Time to Clean Graph,Time to Evaluate Success Rate
+SGM,0.7,inf,20,0.95,False,inf,0.00680170700798044,20,0,0,425.61118041203554,7067,inf,442.42704462799884
